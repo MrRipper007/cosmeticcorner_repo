@@ -1,4 +1,10 @@
-.logo img{
+.logo img {
+  float: left;
   width: 100px;
-  
+}
+.navbar {
+  float: right;
+}
+.head {
+  padding: 25px 25px 25px;
 }
